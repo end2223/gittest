@@ -13,3 +13,4 @@ git log
 git revert
 git diff
 gitk giao dien
+git checkout -- _namefile: loai bo thong tin vua thay doi
