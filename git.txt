@@ -13,4 +13,15 @@ git log
 git revert
 git diff
 gitk giao dien
-git checkout -- _namefile: loai bo thong tin vua thay doi
+git checkout[restore] -- _namefile: loai bo thong tin vua thay doi
+git reset HEAD _name: loai bo khoi staging area
+
+Tao nhanh va xac nhap
+git branch
+git branch: new branch
+git checkout -b feature/new_file
+git checkout _name: switch
+
+phai o A
+merge A<-B
+git merge B
