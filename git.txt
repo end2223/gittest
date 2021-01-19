@@ -34,3 +34,21 @@ git reset --soft hash: quay lai truoc khi duoc dua vao reponsitory
 git reset --mixed hash: quay lai truoc khi duoc dua vao staging area
 git reset --hard hash: 
 revert: khong mat di nhung thang truoc no
+
+
+8
+.gitignore: boqua file khong dung den
+
+
+
+
+
+
+GITHUB
+
+git remote add origin git@github.com:end2223/gittest.git
+
+git push -u origin master
+
+git push origin _namebranch
+
