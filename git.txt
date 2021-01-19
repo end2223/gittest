@@ -27,3 +27,10 @@ merge A<-B
 git merge B
 
 git branch -D _name : delete 
+
+
+Git reset
+git reset --soft hash: quay lai truoc khi duoc dua vao reponsitory
+git reset --mixed hash: quay lai truoc khi duoc dua vao staging area
+git reset --hard hash: 
+revert: khong mat di nhung thang truoc no
